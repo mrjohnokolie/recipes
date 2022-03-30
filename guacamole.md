@@ -1,5 +1,5 @@
 # Ingredients
 - avocado
-- lemon
+- lime
 - slat
 # Instructions
